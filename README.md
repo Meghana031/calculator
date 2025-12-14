@@ -19,5 +19,9 @@ All styling and scripting are written inside the HTML file.
 1. Download or clone the repository
 2. Open `index.html` in a browser
 
+## 📷 Screenshot
+![Calculator](calculator.png)
+
+
 ## 👩‍💻 Author
 Meghana
