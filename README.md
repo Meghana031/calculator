@@ -20,7 +20,7 @@ All styling and scripting are written inside the HTML file.
 2. Open `index.html` in a browser
 
 ## 📷 Screenshot
-![Calculator](calculator.png)
+Animated Calculator - Google Chrome 14-12-2025 13_51_29.png
 
 
 ## 👩‍💻 Author
